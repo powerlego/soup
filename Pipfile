@@ -7,8 +7,11 @@ name = "pypi"
 requests = "*"
 bs4 = "*"
 pandas = "*"
+selenium = "*"
+selenium-wire = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
