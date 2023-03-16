@@ -37,7 +37,7 @@ def getWebsite(driver, url, company_name, count=0):
         time.sleep(5)
         driver = webdriver.Chrome(options=options)
 
-    driver.set_page_load_timeout(10)
+    driver.set_page_load_timeout(30)
     try:
         driver.get(url)
         count = 0
@@ -75,8 +75,9 @@ def getWebsite(driver, url, company_name, count=0):
     except:
         print("timeout")
         if count > 5:
+            driver = webdriver.Chrome(options=options)
             return ""
-        count += 1
+        count = count + 1
         return getWebsite(driver, url, company_name, count)
 
 
