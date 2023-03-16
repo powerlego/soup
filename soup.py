@@ -34,6 +34,7 @@ def getWebsite(driver, url, company_name, count=0):
     if count > 0:
         print("retrying")
         driver.quit()
+        time.sleep(5)
         driver = webdriver.Chrome(options=options)
 
     driver.set_page_load_timeout(10)
@@ -106,6 +107,7 @@ with open("companies.csv") as csvfile:
                 if found_company == False:
                     missing_urls.append(row[0])
                 driver.quit()
+                time.sleep(5)
         #
         # print(search)
         # company_name = search.group(1)
