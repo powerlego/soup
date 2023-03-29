@@ -41,7 +41,7 @@ Avery Dennison Corporation https://investors.averydennison.com/
 Ball Corporation https://investors.ball.com/investors/default.aspx
 Bank of America Corp https://investor.bankofamerica.com/
 Baxter International Inc. https://investor.baxter.com/investors/investor-overview/default.aspx
-Becton Dickinson and Company https://investors.bd.com/investor-overview?c=64106&p=irol-irhome
+Becton Dickinson and Company https://investors.bd.com/investor-overview
 Best Buy Co. Inc. https://investors.bestbuy.com/investor-relations/overview/default.aspx
 Biogen Inc. https://investors.biogen.com/
 Bio-Rad Laboratories Inc. Class A https://investors.bio-rad.com/overview/default.aspx
@@ -110,14 +110,14 @@ Domino's Pizza Inc. https://ir.dominos.com/
 Dover Corporation https://www.dovercorporation.com/investors
 Dow Inc. https://investors.dow.com/en/investors/default.aspx
 Duke Energy Corporation https://investors.duke-energy.com/overview/default.aspx
-DXC Technology Co. https://dxc.com/us/en
+DXC Technology Co. https://investors.dxc.com/investor-relations/default.aspx
 Eastman Chemical Company https://investors.eastman.com/overview/default.aspx
 eBay Inc. https://investors.ebayinc.com/overview/default.aspx
 Ecolab Inc. https://investor.ecolab.com/home/default.aspx
 Edison International https://www.edison.com/about-us/investors
 Electronic Arts Inc. https://ir.ea.com/home/default.aspx
 Eli Lilly and Company https://investor.lilly.com/
-Emerson Electric Co. https://www.emerson.com/en-us/investors?utm_source=emr&utm_medium=vtye&utm_content=investors&utm_campaign=23gEMR-emerson.com/investors01
+Emerson Electric Co. https://www.emerson.com/en-us/investors
 Enphase Energy Inc. https://investor.enphase.com/
 Entergy Corporation https://www.entergy.com/investors/
 EOG Resources Inc. https://investors.eogresources.com/investors/default.aspx
@@ -137,7 +137,7 @@ FactSet Research Systems Inc. https://investor.factset.com/
 Fastenal Company https://investor.fastenal.com/investor-overview/default.aspx
 Federal Realty Investment Trust https://www.federalrealty.com/investors/overview/
 FedEx Corporation https://investor.fedex.com/home/default.aspx
-Fifth Third Bancorp https://www.53.com/content/fifth-third/en.html
+Fifth Third Bancorp https://ir.53.com/home/default.aspx
 First Solar Inc. https://investor.firstsolar.com/home/default.aspx
 FirstEnergy Corp. https://investors.firstenergycorp.com/investor-relations-homepage/default.aspx
 Fiserv Inc. https://investors.fiserv.com/
@@ -162,18 +162,18 @@ Hasbro Inc. https://investor.hasbro.com/
 Henry Schein Inc. https://investor.henryschein.com/
 Hershey Company https://investors.thehersheycompany.com/en_us/home.html
 Hess Corporation https://investors.hess.com/
-Hewlett Packard Enterprise Co. https://investors.hpe.com/?jumpid=va_ycdgibe2fh/
+Hewlett Packard Enterprise Co. https://investors.hpe.com/
 Hologic Inc. https://investor.hologic.com/home/default.aspx
 Honeywell International Inc. https://investor.honeywell.com/
 Hormel Foods Corporation https://investor.hormelfoods.com/ir-home/default.aspx
 HP Inc. https://investor.hp.com/home/default.aspx
 IDEX Corporation https://investors.idexcorp.com/
-IDEXX Laboratories Inc. https://www.idexx.com/en/about-idexx/investors/?utm_campaign=idxinvyr17&utm_medium=offline&utm_source=r.investors
+IDEXX Laboratories Inc. https://www.idexx.com/en/about-idexx/investors/
 Illinois Tool Works Inc. https://investor.itw.com/investor-relations/default.aspx
 Illumina Inc. https://investor.illumina.com/
 Incyte Corporation https://investor.incyte.com/
 Ingersoll Rand Inc. https://investors.irco.com/home/default.aspx
-Intel Corporation https://www.intel.com/content/www/us/en/homepage.html
+Intel Corporation https://www.intc.com
 International Business Machines Corporation https://www.ibm.com/investor
 International Flavors & Fragrances Inc. https://ir.iff.com/
 International Paper Company https://www.internationalpaper.com/investors
@@ -294,7 +294,7 @@ SolarEdge Technologies Inc. https://investors.solaredge.com/
 Southern Company https://investor.southerncompany.com/home/default.aspx
 Stanley Black & Decker Inc. https://www.stanleyblackanddecker.com/investors
 Starbucks Corporation https://investor.starbucks.com/ir-home/default.aspx
-State Street Corporation hhttps://investors.statestreet.com/overview/default.aspx
+State Street Corporation https://investors.statestreet.com/overview/default.aspx
 Stryker Corporation https://investors.stryker.com/home/default.aspx
 Synchrony Financial https://investors.synchrony.com/
 Synopsys Inc. https://investor.synopsys.com/overview/default.aspx
